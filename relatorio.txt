@@ -1,0 +1,16 @@
+=== RELATORIO DE MUSICAS ===
+Pasta base       : C:\Users\Ana Clara\Downloads\MinhasMusicas
+Total de musicas : 6
+Total de generos : 2
+Duracao total    : 00:29:49
+
+=== Por Genero ===
+------------------------
+Rock           
+  Musicas       :  4
+  Duracao total : 00:23:49
+------------------------
+Sertanejo      
+  Musicas       :  2
+  Duracao total : 00:06:00
+------------------------

@@ -1,0 +1,6 @@
+AliceInChains ;ManintheBox ;Rock;C:\Users\Ana Clara\Downloads\MinhasMusicas\AliceInChains - ManintheBox - Rock.wav;271.84
+HugoeGuilherme ;MalFeito ;Sertanejo;C:\Users\Ana Clara\Downloads\MinhasMusicas\HugoeGuilherme - MalFeito - Sertanejo.wav;182.78
+IsraeleRodolffo ;BatomDeCereja ;Sertanejo;C:\Users\Ana Clara\Downloads\MinhasMusicas\IsraeleRodolffo - BatomDeCereja - Sertanejo.wav;177.40
+Megadeth ;SymphonyOfDestruction ;Rock;C:\Users\Ana Clara\Downloads\MinhasMusicas\Megadeth - SymphonyOfDestruction - Rock.wav;258.67
+Metallica ;MasterofPuppets ;Rock;C:\Users\Ana Clara\Downloads\MinhasMusicas\Metallica - MasterofPuppets - Rock.wav;515.37
+Metallica ;TheUnforgiven ;Rock;C:\Users\Ana Clara\Downloads\MinhasMusicas\Metallica - TheUnforgiven - Rock.wav;383.43
